@@ -1,0 +1,10 @@
+#pcat{
+	position:	absolute;
+	right: 20px;
+	z-index:	100;
+	width:		100px;
+	height:		100%;
+	overflow-y:	auto;
+	font-size:	85%;
+	overflow: 	hidden;
+}
